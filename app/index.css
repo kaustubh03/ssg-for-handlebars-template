@@ -1,0 +1,11 @@
+.btn-primary{
+    background-color: #131313;
+    color: #fafafa;
+    border:none;
+    box-shadow:none;
+    padding: 20px;
+}
+.text-primary{
+    font-size: 22px;
+    padding: 0px 25px;
+}
